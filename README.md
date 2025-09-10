@@ -44,11 +44,5 @@ For a detailed overview with screenshots, blueprint captures, and demo videos, s
 
 ---
 
-## Downloads
-- [Playable Demo Build (Final Version)](your-google-drive-link)  
-- [Additional Project Files (Blueprints, docs, etc.)](your-google-drive-link)  
-
----
-
 ## Acknowledgments
 I want to thank **Kekdot** on YouTube — his tutorials on Unreal Engine multiplayer concepts helped me understand replication and session systems, which I then applied to build my own implementation in Calamitous Caverns.
