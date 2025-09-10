@@ -16,11 +16,9 @@
 
 ---
 
-## Screenshots
-*(Add images to the `media/` folder and link them here)*  
+## Screenshots 
 ![Gameplay](media/gameplay.png)  
-![Shop UI](media/shop.png)  
-![Quota System](media/quota.png)  
+![Shop UI](media/shop.png)    
 
 ---
 
