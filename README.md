@@ -42,7 +42,7 @@ Built in Unreal Engine 5.4.4 using Blueprints only, this project focuses on tech
 ---
 
 ### Full Presentation
-For a detailed overview with screenshots, blueprint captures, and demo videos, see [CalamitousCavernsPresentation.pptx](docs/CalamitousCavernsPresentation.pptx).
+For a detailed overview with screenshots, blueprint captures, and demo videos: [Download](docs./CalamitousCavernsPresentation.pptx)
 
 ---
 
