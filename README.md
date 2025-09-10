@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="media./logo.png" alt="Calamitous Caverns logo" width="260">
-</p>
 
 # Calamitous Caverns
 
