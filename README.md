@@ -1,4 +1,5 @@
 # Calamitous Caverns
+![logo](media./logo.png)
 
 **Senior Year Practicum Project | Unreal Engine 5.4.4**
 
@@ -17,8 +18,8 @@
 ---
 
 ## Screenshots 
-![Gameplay](media/gameplay.png)  
-![Shop UI](media/shop.png)    
+![Gameplay](media./gameplay.png)  
+![Shop UI](media./shop.png)    
 
 ---
 
