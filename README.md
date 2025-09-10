@@ -1,13 +1,17 @@
+<p align="right">
+  <img src="media./logo.png" alt="Calamitous Caverns logo" width="260">
+</p>
+
 # Calamitous Caverns
-![logo](media./logo.png)
+
 
 **Senior Year Practicum Project | Unreal Engine 5.4.4**
 
-**Calamitous Caverns** is a first-person Unreal Engine 5 game where players mine ores, manage inventory, and sell resources to meet a rising quota. It features a dynamic day/night cycle, an economy system, and multiplayer sessions. The project was built to explore optimization, replication, and gameplay systems.
+**Calamitous Caverns** is a first-person Unreal Engine 5 game I designed and produced throughout my senior year of high school. Built in UE5.4.4, the project explores replication, session systems, level streaming, and core gameplay loops while delivering a playable multiplayer prototype.
 
 ---
 
-## Features
+## 🎮 Features
 - **Mining System**: Dynamic ore generation, pickaxe quality checks, and mining UI.  
 - **Inventory & Economy**: Hotbar system, buy/sell shops, and receipts.  
 - **Quota System**: Scaling formula tied to the day/night cycle.  
@@ -17,9 +21,26 @@
 
 ---
 
-## Screenshots 
-![Gameplay](media./gameplay.png)  
-![Shop UI](media./shop.png)    
+## 🖼️ Screenshots
+<p align="center">
+  <img src="media./gameplay.png" alt="Gameplay" width="600"/>
+</p>
+
+<p align="center">
+  <img src="media./shop.png" alt="Shop UI" width="600"/>
+</p>
+
+<p align="center">
+  <img src="media./multiplayer.png" alt="Multiplayer" width="600"/>
+</p>
+
+---
+
+## 👤 My Contributions
+- Designed and programmed the **multiplayer session system** with RPCs and replication.  
+- Built the **mining, inventory, and quota systems**.  
+- Created the **ma**
+    
 
 ---
 
