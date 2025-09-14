@@ -7,7 +7,7 @@ Built in Unreal Engine 5.4.4 using Blueprints only, this project focuses on tech
 
 ---
 
-### Features
+### Gameplay Features
 - **Mining System**: Dynamic ore generation, pickaxe quality checks, and mining UI.  
 - **Inventory & Economy**: Hotbar system, buy/sell shops, and receipts.  
 - **Quota System**: Scaling formula tied to the day/night cycle.  
@@ -32,12 +32,18 @@ Built in Unreal Engine 5.4.4 using Blueprints only, this project focuses on tech
 
 ---
 
-### My Contributions
+### Overview
 - Designed and programmed the **multiplayer session system** with RPCs and replication.  
 - Built the **mining, inventory, and quota systems**.  
 - Created the **main menu and session UI**.  
 - Optimized performance using **level streaming** and efficient Blueprint structure. 
-    
+
+---
+
+### Technologies
+- **Engine**: Unreal Engine 5.4.4  
+- **Language**: Unreal Engine Blueprints (visual scripting only)  
+- **Tools**: Blender (low-poly assets), Photoshop/Illustrator (concept art)  
 
 ---
 
@@ -46,20 +52,10 @@ For a detailed overview with screenshots, blueprint captures, and demo videos: [
 
 ---
 
-### Development
-- **Engine**: Unreal Engine 5.4.4  
-- **Language**: Unreal Engine Blueprints (visual scripting only)  
-- **Tools**: Blender (low-poly assets), Photoshop/Illustrator (concept art)  
+### Download
+- Full Unreal Project: [(Google Drive)](https://drive.google.com/file/d/1ZnCARngnJ_98ZyVgWloRzBRp6ww13NBE/view?usp=sharing)
 
 ---
 
-### My Contributions
-- Designed and programmed the **multiplayer session system** with RPCs and replication.  
-- Built the **mining, inventory, and quota systems**.  
-- Created the **main menu and session UI**.  
-- Optimized performance using **level streaming** and efficient Blueprint structure.  
-- Documented the full project with a **game proposal** and **final practicum paper**.  
-
----
 ### Acknowledgments
 I learned core UE networking concepts from **Cedric Neukirchen’s Multiplayer Network Compendium**. It helped me understand replication, RPC patterns, and session workflows, which I applied in this project. [Link](<https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/>)
