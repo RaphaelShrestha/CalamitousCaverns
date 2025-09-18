@@ -58,4 +58,4 @@ For a detailed overview with screenshots, blueprint captures, and demo videos: [
 ---
 
 ### Acknowledgments
-I learned core UE networking concepts from **Cedric Neukirchen’s Multiplayer Network Compendium**. It helped me understand replication, RPC patterns, and session workflows, which I applied in this project. [Link](<https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/>)
+Core UE networking concepts were learned from Cedric Neukirchen’s Multiplayer Network Compendium. This resource provided valuable insights into replication, RPC patterns, and session workflows, which were applied throughout this project. [Link](<https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/>)
