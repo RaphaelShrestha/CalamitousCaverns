@@ -52,10 +52,5 @@ For a detailed overview with screenshots, blueprint captures, and demo videos: [
 
 ---
 
-### Download
-- Full Unreal Project: [(Google Drive)](https://drive.google.com/file/d/1ZnCARngnJ_98ZyVgWloRzBRp6ww13NBE/view?usp=sharing)
-
----
-
 ### Acknowledgments
 Core UE networking concepts were learned from Cedric Neukirchen’s Multiplayer Network Compendium. This resource provided valuable insights into replication, RPC patterns, and session workflows, which were applied throughout this project. [Link](<https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/>)
