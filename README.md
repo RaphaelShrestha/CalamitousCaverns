@@ -3,7 +3,7 @@
 
 **Senior Year Practicum Project | Unreal Engine 5.4.4**
 
-Built in Unreal Engine 5.4.4 using Blueprints only, this project focuses on tech and tooling. I set up listen server multiplayer with the UE session system, used replicated actors and variables, and implemented RPCs for inventory updates, mining events, and quota changes. Level Streaming plus Seamless Travel manage cave sublevels to reduce memory. UI was built with UMG widgets for inventory, hotbar, shop, and quota, with GameState driving the day and night cycle and exposing time to clients.
+Built in Unreal Engine 5.4.4, this project focuses on tech and tooling. I set up listen server multiplayer with the UE session system, used replicated actors and variables, and implemented RPCs for inventory updates, mining events, and quota changes. Level Streaming plus Seamless Travel manage cave sublevels to reduce memory. UI was built with UMG widgets for inventory, hotbar, shop, and quota, with GameState driving the day and night cycle and exposing time to clients.
 
 ---
 
@@ -42,7 +42,7 @@ Built in Unreal Engine 5.4.4 using Blueprints only, this project focuses on tech
 
 ### Technologies
 - **Engine**: Unreal Engine 5.4.4  
-- **Language**: Unreal Engine Blueprints (visual scripting only)  
+- **Language**: C++, Unreal Engine Blueprints
 - **Tools**: Blender (low-poly assets), Photoshop/Illustrator (concept art)  
 
 ---
